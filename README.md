@@ -1,8 +1,11 @@
 # openUC2 Automated Sample Rotation
 
 Project: 3D Refractive Index Tomography
+
 Course: Innovation Methods in Photonics 2026, University of Jena
+
 Hardware: Seeed Studio XIAO ESP32-S3 + openUC2 motor driver board
+
 Motor: SY20STH20-0604A (NEMA 8 stepper)
 
 ## What this does
